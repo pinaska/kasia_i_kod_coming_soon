@@ -1,0 +1,2 @@
+This project is the first one I have created locally, and control it's version by Github Desktop app. 
+It has been pushed to Github online in January 2017.
